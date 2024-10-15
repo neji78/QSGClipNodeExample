@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/shape">
+        <file>shader/roundedRectangle.frag</file>
+        <file>shader/roundedRectangle.vert</file>
+    </qresource>
+</RCC>
